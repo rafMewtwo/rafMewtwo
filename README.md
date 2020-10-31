@@ -52,8 +52,8 @@ Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitan
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafMewtwo&layout=compact&theme=graywhite&title_color=268bd2" alt="rafMewtwo" />
-</p>
-<p>&nbsp;
+
+&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafMewtwo&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="rafMewtwo" />
 </p>
 
