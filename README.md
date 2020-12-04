@@ -25,8 +25,8 @@ Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitan
 - 🤔 Meus hobbies são tecnologia em geral, apesar de estar focado em fullstack costumo estar sempre aprendendo novas tecnologias;
 - 💼 Estou perseguindo conhecimento para evoluir tanto em **Hardskills** quanto **Softskills**;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para ponciano.raf@gmail.com para me encontrar.
-- 📝 Veja meu <a href="https://gitconnected.com/rafmewtwo/resume" target="_blank">Curriculum Vitae</a> para mais informações. (embreve)
+- 📫 Por favor, envie um email para ponciano.raf@gmail.com para me encontrar;
+- 📝 Veja meu <a href="https://gitconnected.com/rafmewtwo/resume" target="_blank">Curriculum Vitae</a> para mais informações. (embreve);
 
 
 **Linguagens e ferramentas:**  
