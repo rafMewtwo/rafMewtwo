@@ -20,7 +20,7 @@ Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitan
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨💻 Estou estudando front-end e back-end com o foco nos **Frameworks** e **Bibliotecas** mais usadas no mercado;
+- 👨💻 Estou estudando **front-end** e **back-end** com o foco nos **Frameworks** e **Bibliotecas** mais usadas no mercado;
 - 🌱 Estou aprendendo neste momento utilizar **backend** comecando por **MySql**; 
 - 🤔 Meus hobbies são tecnologia em geral, apesar de estar focado em fullstack costumo estar sempre aprendendo novas tecnologias;
 - 💼 Estou perseguindo conhecimento para evoluir tanto em **Hardskills** quanto **Softskills**;
