@@ -21,12 +21,12 @@ Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitan
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 - 👨💻 Estou estudando front-end e back-end com o foco nos **Frameworks** e **Bibliotecas** mais usadas no mercado;
-- 🌱 Estou aprendendo neste momento utilizar **Redux** no **React**; 
+- 🌱 Estou aprendendo neste momento utilizar **backend** comecando por **MySql**; 
 - 🤔 Meus hobbies são tecnologia em geral, apesar de estar focado em fullstack costumo estar sempre aprendendo novas tecnologias;
 - 💼 Estou perseguindo conhecimento para evoluir tanto em **Hardskills** quanto **Softskills**;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para ponciano.raf@gmail.com para me encontrar.
-- 📝 Veja meu <a href="https://gitconnected.com/rafmewtwo/resume" target="_blank">Curriculum Vitae</a> para mais informações.
+- 📝 Veja meu <a href="https://gitconnected.com/rafmewtwo/resume" target="_blank">Curriculum Vitae</a> para mais informações. (embreve)
 
 
 **Linguagens e ferramentas:**  
