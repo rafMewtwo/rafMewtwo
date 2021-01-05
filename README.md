@@ -46,11 +46,6 @@ Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitan
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> 
 </p>
 
-<p>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
-</p>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafMewtwo&layout=compact&theme=graywhite&title_color=268bd2" alt="rafMewtwo" />
