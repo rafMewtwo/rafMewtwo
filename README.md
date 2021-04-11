@@ -18,7 +18,7 @@ Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitan
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+  <img align="right" alt="GIF" src="https://cdn-media-1.freecodecamp.org/images/dMoVLfSvnTDo4KKaisVJiw3l7Kcl-wKoXDNo" width="400px" />
 
 - 👨💻 Estou estudando **front-end** e **back-end** com o foco nos **Frameworks** e **Bibliotecas** mais usadas no mercado;
 - 🌱 Estou aprendendo neste momento utilizar **backend** comecando por **MySql**; 
