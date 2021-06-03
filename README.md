@@ -34,7 +34,7 @@ Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitan
   - <a href="https://github.com/rafMewtwo/projetos-front-end" target="_blank">18 projetos Front-end</a>;
   - <a href="https://github.com/rafMewtwo/mongodb-sintax" target="_blank">projetos em MongoDB</a> e <a href="https://github.com/rafMewtwo/mysql-sintaxe" target="_blank">projetos em MySQL</a>;
   - <a href="https://github.com/rafMewtwo/trybeer-v2" target="_blank">Trybeer v2 - Frontend e Backend</a>;
-  - - <a href="https://github.com/rafMewtwo/nextjs-up-and-running" target="_blank">App utilizando nextJS</a>;
+  - <a href="https://github.com/rafMewtwo/nextjs-up-and-running" target="_blank">App utilizando nextJS</a>;
 
 
 **Linguagens e ferramentas:**  
