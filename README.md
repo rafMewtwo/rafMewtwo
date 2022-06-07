@@ -17,9 +17,8 @@
 Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack** 💼 🚀. 
 
 **Meus interesses pessoais:**
-  <div style={{width: "100px"}}>
+
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" />
-  </div>
 
 - 👨💻 Estou estudando **front-end** e **back-end** com o foco nos **Frameworks** e **Bibliotecas** mais usadas no mercado;
 - 🌱 Estou aprendendo neste momento utilizar **Algoritimos e Estruturas de dados** utilizando **Python**; 
