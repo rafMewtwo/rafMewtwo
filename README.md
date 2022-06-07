@@ -54,6 +54,7 @@ Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitan
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> 
   <img src="https://play-lh.googleusercontent.com/xvFkUT9oVpIfZqig0cFdKe4uQb5lucYm8ODfb2MydJSYjUeA2VsKMo3bzvy6OdJl3Q" alt="typescript" width="40" height="40"/>
   <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextJs" width="40" height="40"/>
+  <img src="https://engenharia360.com/wp-content/uploads/2019/04/python-engenharia360-3-1024x512.png" alt="python" width="40" height="40"/>
 </p>
 
 
