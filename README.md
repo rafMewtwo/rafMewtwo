@@ -57,7 +57,7 @@ Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitan
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="flutter" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" alt="golang" width="40" height="40"/>
-  <img src="https://www.fileeagle.com/data/2021/06/SQLite.png" alt="golang" width="40" height="40"/>
+  <img src="[https://www.fileeagle.com/data/2021/06/SQLite.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIb2gF58h61o13PzXyIrNcZU5Zxp82CJgwec9A0FxCsL7wUjUYS4LU9v6wauDJnbegZ4&usqp=CAU)" alt="sqlite" width="40" height="40"/>
   
 </p>
 
