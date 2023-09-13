@@ -4,9 +4,6 @@
 <a href="https://www.instagram.com/raf.ponciano/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
-<a href="https://www.facebook.com/osupermewtwo/" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
-</a> 
 <a href="https://www.linkedin.com/in/rafaelponciano/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
@@ -95,7 +92,7 @@ Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitan
     <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
 </p>
 
-<h2>github stats <img src="https://emojis.slackmojis.com/emojis/images/1665051119/61583/vibe-rabbit.gif?1665051119" width="40" /></h2>
+<h2>github stats </h2>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafMewtwo&layout=compact&theme=graywhite&title_color=268bd2" alt="rafMewtwo" />
