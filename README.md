@@ -18,13 +18,10 @@ Olá, me chamo **Rafael Ponciano**, sou de Belém-PA, Brasil, estou me capacitan
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="400px" height="300px" />
 
 - 👨💻 Estou estudando continuamente **front-end** e **back-end** com o foco nos **Frameworks** e **Bibliotecas** mais usadas no mercado;
-- 🌱 Estou aprendendo neste momento utilizar **Algoritimos e Estruturas de dados** utilizando **Python**; 
-- 🤔 Meus hobbies são tecnologia em geral, apesar de estar focado em fullstack costumo estar sempre aprendendo novas tecnologias;
+- 🌱 Estou aprendendo neste momento utilizar **arquitetura baseada em eventos**, micro-services, rabbitMQ; 
+- 🤔 Meus hobbies são tecnologia em geral, apesar de estar focado em fullcycle costumo estar sempre aprendendo novas tecnologias;
 - 💼 Estou perseguindo conhecimento para evoluir tanto em **Hardskills** quanto **Softskills**;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para ponciano.raf@gmail.com para me encontrar;
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1f6n9ZtB9Fs0YxIDp9O0i36g3DF7gNYpj/view" target="_blank">Curriculum Vitae</a> para mais informações;
-- 👋 Veja meu <a href="https://dev-portifolio-ebon.vercel.app/" target="_blank">Portfolio</a> para mais informações;
 - 🎓 Repositorios que mais me orgulho :
   - <a href="https://github.com/rafMewtwo/sd-06-project-trybewallet" target="_blank">Trybe Wallet React Redux</a>;
   - <a href="https://github.com/rafMewtwo/sd-06-project-recipes-app" target="_blank">Recipes App React Context</a>;
